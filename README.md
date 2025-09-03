@@ -1,16 +1,11 @@
-# Heading 1 (Largest)
-## Heading 2
-### Heading 3
-#### Heading 4
-
-📊 Blinkit Sales Dashboard  
+# 📊 Blinkit Sales Dashboard  
 
 The **Blinkit Sales Dashboard** is a business intelligence project that provides a comprehensive analysis of sales performance, outlet operations, and product profitability for Blinkit (formerly Grofers).  
 Using **Power BI / Tableau**, raw sales data was transformed into interactive dashboards, enabling stakeholders to identify key trends, optimize operations, and make data-driven business decisions.  
 
 ---
 
- 📝 Problem Statement  
+## 📝 Problem Statement  
 Blinkit wanted to evaluate its sales performance across various outlets and product categories. The management required a solution that:  
 - Tracks **overall sales and profitability**  
 - Compares **outlet types** (online vs. offline)  
@@ -22,7 +17,7 @@ The **Blinkit Sales Dashboard** was designed to meet these requirements.
 
 ---
 
-🚀 Key Features  
+## 🚀 Key Features  
 - **Sales Performance Overview** → Monitor total sales, revenue, and profit margins  
 - **Category Analysis** → Evaluate category-wise performance (groceries, packaged foods, household items, etc.)  
 - **Outlet Insights** → Compare sales between online and offline stores  
@@ -32,14 +27,14 @@ The **Blinkit Sales Dashboard** was designed to meet these requirements.
 
 ---
 
-🛠️ Tools & Technologies  
+## 🛠️ Tools & Technologies  
 - **Power BI** → Dashboard design & interactive visualizations  
 - **Power Query Editor / Python** → Data cleaning, preprocessing, and analysis  
 - **Excel** → Data source format (Blinkit sales dataset)  
 
 ---
 
- 📊 Methodology  
+ ## 📊 Methodology  
 1. **Data Collection** → Blinkit sales dataset containing product, outlet, and sales details  
 2. **Data Cleaning** → Handled missing values, standardized product categories, removed inconsistencies  
 3. **Data Transformation** → Aggregated sales by outlet type, product category, and region  
@@ -48,7 +43,7 @@ The **Blinkit Sales Dashboard** was designed to meet these requirements.
 
 ---
 
-💡 Business Impact  
+## 💡 Business Impact  
 The dashboard enables stakeholders to:  
 - 📦 Optimize **inventory management** by aligning stock with customer demand  
 - 💰 Improve **profitability** by focusing on high-margin product categories  
