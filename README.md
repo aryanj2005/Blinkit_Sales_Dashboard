@@ -28,9 +28,9 @@ The **Blinkit Sales Dashboard** was designed to meet these requirements.
 ---
 
 🛠️ Tools & Technologies  
-- **Power BI / Tableau** → Dashboard design & interactive visualizations  
-- **Power Query / SQL / Python** → Data cleaning, preprocessing, and analysis  
-- **Excel / CSV** → Data source format (Blinkit sales dataset)  
+- **Power BI** → Dashboard design & interactive visualizations  
+- **Power Query Editor / Python** → Data cleaning, preprocessing, and analysis  
+- **Excel** → Data source format (Blinkit sales dataset)  
 
 ---
 
@@ -53,4 +53,6 @@ The dashboard enables stakeholders to:
 
 ---
 
-Snapshot of the dashboard: 
+Snapshot of the dashboard: ![https://github.com/aryanj2005/Blinkit_Sales_Dashboard/blob/main/Dashboard%20Visuals.png]
+
+
