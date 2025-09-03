@@ -1,4 +1,4 @@
-📊 Detailed Insights
+# 📊 Detailed Insights
 
 The Blinkit Sales Dashboard revealed several actionable insights into sales performance, customer behavior, and profitability. Total sales volume displayed steady growth throughout the year, with distinct seasonal spikes during festive periods. Packaged foods emerged as the most profitable category, while fruits and vegetables, despite contributing high sales volumes, suffered from lower margins due to perishability and supply chain inefficiencies. Household essentials provided consistent revenue with minimal seasonality, reinforcing their importance in maintaining baseline sales. Online outlets generated a larger revenue share compared to offline stores, highlighting the growing reliance on delivery services, though offline outlets maintained dominance in semi-urban and rural areas. Regional analysis showed the West leading in overall sales, while the South exhibited higher purchase frequency and loyalty, and the North lagged behind, suggesting a need for region-specific strategies. Customer segmentation revealed younger professionals favored online shopping, while older demographics preferred traditional outlets.
 
@@ -7,7 +7,7 @@ Average order value was significantly higher in metropolitan regions, often boos
 
 ====================================================================================================================================================================================
 
-🛠️ Technology Stack & Implementation
+# 🛠️ Technology Stack & Implementation
 
 The technical foundation of the Blinkit Sales Dashboard combined multiple tools and workflows to transform raw sales data into actionable insights. Power BI served as the primary platform for dashboard creation, leveraging DAX measures to calculate KPIs such as total sales, profit margins, and average order values.
 
