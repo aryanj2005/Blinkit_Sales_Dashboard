@@ -1,4 +1,4 @@
- 📊 Blinkit Sales Dashboard  
+📊 Blinkit Sales Dashboard  
 
 The **Blinkit Sales Dashboard** is a business intelligence project that provides a comprehensive analysis of sales performance, outlet operations, and product profitability for Blinkit (formerly Grofers).  
 Using **Power BI / Tableau**, raw sales data was transformed into interactive dashboards, enabling stakeholders to identify key trends, optimize operations, and make data-driven business decisions.  
